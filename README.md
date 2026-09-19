@@ -38,7 +38,7 @@ The card is rendered on an HTML `<canvas>` at the original artwork's full resolu
 - **Event:** Android254 Kotlin Kenya Meetup — Campus Tour
 - **Host:** Google Developer Group, JKUAT (Jomo Kenyatta University of Agriculture and Technology)
 - **Date:** Saturday, 26th September 2026
-- **Time:** 9:00 AM – 5:00 PM (EAT)
+- **Time:** 11:00 AM – 4:00 PM (EAT)
 - **Venue:** IPIC Exhibition Hall, JKUAT Main Campus, Juja
 
 ## License
